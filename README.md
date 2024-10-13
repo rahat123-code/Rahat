@@ -1,7 +1,6 @@
-<h1 align="center">Hi I'm Rahat</h1>
+
 <h3 align="center">Building Dynamic Web Experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
-
 - 📫 How to reach me **rahatbali398@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
