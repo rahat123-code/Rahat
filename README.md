@@ -1,20 +1,18 @@
 <p align="center">
-    <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNjMWZidnpiYmlkendpOXhsdmFoMWd4OXhmNzRmOWY3dnVhbXZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" width="800" length="1200"/> <!-- Change 600 to your desired width -->
 </p>
+
 <h1 align="center" style="
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    font-size: 3em; 
-    color: white; 
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(0, 255, 0, 0.5) 50%, rgba(0, 255, 0, 0) 100%); 
-    padding: 10px; 
-    border-radius: 10px; 
-    transition: all 0.3s ease; 
-    display: inline-block; 
-    text-align: center; 
-    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+    font-family: 'Roboto', sans-serif; /* Change font family to Roboto */
+    font-size: 3em; /* Font size */
+    color: #32CD32; /* Change text color (lime green) */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow effect */
+    margin: 0; /* Remove default margin */
 ">
     Hi I'm Rahat
 </h1>
+</h1>
+
                                                     
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 <h2 align="left">Overview</h2>
